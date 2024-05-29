@@ -1,0 +1,32 @@
+.box1 {
+    width:233px ;
+    height:192px ;
+    background-color:#FC0000 ;
+    position: absolute;
+    z-index: 3;
+}
+.box2 {
+    width:233px ;
+    height:192px ;
+    background-color:#05FC00 ;
+    position: absolute;
+    margin-top:107px ;
+    margin-left:128px ;
+    z-index: 2;
+}
+.box3 {
+    width:233px ;
+    height:192px ;
+    background-color:#000AFC ;
+    position: absolute;
+    margin-top:203px ;
+    margin-left:244px ;
+}
+.box4 {
+    width:233px ;
+    height:192px ;
+    background-color:#F7FC00 ;
+    position: absolute;
+    margin-top:253px ;
+    margin-left:314px ;
+}
